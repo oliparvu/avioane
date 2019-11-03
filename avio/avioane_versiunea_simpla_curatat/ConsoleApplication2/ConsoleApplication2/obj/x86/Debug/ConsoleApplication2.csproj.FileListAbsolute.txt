@@ -1,0 +1,21 @@
+C:\Users\Codru\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Codru\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Codru\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Codru\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\Codru\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+d:\Dropbox\Nimic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+d:\Dropbox\Nimic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+d:\Dropbox\Dev\avioane\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+d:\Dropbox\Dev\avioane\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+d:\Dropbox\Dev\avioane\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\Dropbox\Dev\avioane\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+g:\avio\avioane\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+g:\avio\avioane\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+g:\avio\avioane\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+g:\avio\avioane\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+g:\avio\avioane\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Dropbox\Dev\avioane\avio\avioane_versiunea_simpla_curatat\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+d:\Dropbox\Dev\avioane\avio\avioane_versiunea_simpla_curatat\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+d:\Dropbox\Dev\avioane\avio\avioane_versiunea_simpla_curatat\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\Dropbox\Dev\avioane\avio\avioane_versiunea_simpla_curatat\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\Dropbox\Dev\avioane\avio\avioane_versiunea_simpla_curatat\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
